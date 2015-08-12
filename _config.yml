@@ -1,28 +1,28 @@
 # Personal data
 
-name: 
+name: Kara Longo      
 
-email: 
+email: klongo@epi.umaryland.edu
 
-job_title: 
+job_title: Program Director
 
-degrees: [] # format degrees in quotes and separated by comma, ie: ["MS","Ph.D"]
+degrees: ["MS"] # format degrees in quotes and separated by comma, ie: ["MS","Ph.D"]
 
-institution_name: 
+institution_name: UMB
 
-institution_URL: 
+institution_URL: http://umaryland.edu 
 
-department_name: 
+department_name: DOM
 
-department_URL: 
+department_URL: http://medschool.umaryland.edu
 
-github_username: 
+github_username: klongo
 
 twitter_username: 
 
-linkedin_URL: 
+linkedin_URL: https://www.linkedin.com/pub/kara-longo/44/132/26b
 
-selfie_URL: 
+selfie_URL: http://placehold.it/300x300
 
 
 # Site data
